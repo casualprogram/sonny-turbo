@@ -1,0 +1,27 @@
+{
+  "name": "sonny_devil",
+  "version": "1.0.0",
+  "description": "Stealth Mode takes stock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casualprogram/sonny-turbo.git"
+  },
+  "keywords": [
+    "sonny-devil-bot"
+  ],
+  "author": "casual_solutions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casualprogram/sonny-turbo/issues"
+  },
+  "homepage": "https://github.com/casualprogram/sonny-turbo#readme",
+  "dependencies": {
+    "puppeteer": "^24.4.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
